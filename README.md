@@ -1,7 +1,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/iuricode/iuricode/6944132fcd081de8097a0fa9c97a3110325dfc3e/logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+<img src="https://raw.githubusercontent.com/iuricode/iuricode/6944132fcd081de8097a0fa9c97a3110325dfc3e/logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Img">
 
 <h2>Formulario de inscrição EEEP Manoel Mano</h2>
 
